@@ -22,10 +22,9 @@
 
 <div align="center">
 
-  ## Estatísticas do GitHub
+  ## Atividade Recente
 
-  [![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=nicozsd&show_icons=true&theme=dark&include_all_commits=true&count_private=true&locale=pt-br)](https://github.com/anuraghazra/github-readme-stats)
-  [![Principais Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=nicozsd&layout=compact&theme=dark&locale=pt-br)](https://github.com/anuraghazra/github-readme-stats)
+  [![Gráfico de Atividade](https://github-readme-activity-graph.vercel.app/graph?username=nicozsd&theme=react-dark&bg_color=0d1117&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -33,9 +32,10 @@
 
 <div align="center">
 
-  ## Troféus do GitHub
+  ## Estatísticas do GitHub
 
-  [![Troféus do GitHub](https://github-profile-trophy.vercel.app/?username=nicozsd&theme=darkhub&no-bg=true&no-frame=true&column=-1)](https://github.com/ryo-ma/github-profile-trophy)
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=nicozsd&show_icons=true&theme=dark&include_all_commits=true&count_private=true&locale=pt-br" alt="Estatísticas do GitHub" height="180em" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nicozsd&layout=compact&theme=dark&locale=pt-br" alt="Principais Linguagens" height="180em" />
 
 </div>
 
