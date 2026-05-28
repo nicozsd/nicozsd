@@ -1,32 +1,145 @@
-<h1 align="center">Olá 👋, me chamo nicolas Santos</h1>
-<h3 align="center">Um desenvolvedor Full-Stack</h3>
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=nickzsd&label=Profile%20views&color=0e75b6&style=flat" alt="nickzsd" /> </p>
-
-<h3 align="left">Conecte-se Comigo:</h3>
-<div display='flex'>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/nicolas-santos-2b5a5b369" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nicolas-santos-2b5a5b369" height="30" width="40" /></a>
-</p>
+<div align="center">
+  <img src="https://files.manuscdn.com/user_upload_by_module/session_file/310519663608936338/epetnpbxtdqVkwia.png" alt="Nicolas Santos - Full-Stack Developer Banner" width="100%"/>
 </div>
 
-<h3 align="left">Linguagens e Ferramentas:</h3>
-<div align="Left">
-  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
+<div align="center">
+
+  ![Followers](https://img.shields.io/github/followers/nicozsd?label=Seguidores&style=flat-square&color=blueviolet)
+  ![Repos](https://img.shields.io/badge/Repositórios-14-blueviolet?style=flat-square)
+  [![Visualizações de Perfil](https://komarev.com/ghpvc/?username=nickzsd&label=Visualizações&color=blueviolet&style=flat-square)](https://github.com/nicozsd)
+  ![Stars](https://img.shields.io/github/stars/nicozsd?label=Estrelas&style=flat-square&color=blueviolet)
+  ![Contributions](https://img.shields.io/badge/Contribuições-320+-blueviolet?style=flat-square)
+
+  <br/>
+
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolas-santos-2b5a5b369)
+  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nicozsd)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email@gmail.com)
+
 </div>
+
+---
+
+<div align="center">
+
+  ## Estatísticas do GitHub
+
+  [![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=nicozsd&show_icons=true&theme=dark&include_all_commits=true&count_private=true&locale=pt-br)](https://github.com/anuraghazra/github-readme-stats)
+  [![Principais Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=nicozsd&layout=compact&theme=dark&locale=pt-br)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
+
+---
+
+<div align="center">
+
+  ## Troféus do GitHub
+
+  [![Troféus do GitHub](https://github-profile-trophy.vercel.app/?username=nicozsd&theme=darkhub&no-bg=true&no-frame=true&column=-1)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+<div align="center">
+
+  ## Sequência de Contribuições
+
+  [![Sequência de Contribuições](https://streak-stats.demolab.com/?user=nicozsd&theme=dark&hide_border=true&locale=pt-br)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## Ferramentas e Tecnologias
+
+<table align="center">
+  <tr>
+    <td align="center" width="80" height="80">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="50" />
+      <br>Node.js
+    </td>
+    <td align="center" width="80" height="80">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" />
+      <br>Python
+    </td>
+    <td align="center" width="80" height="80">
+      <img src="https://cdn.simpleicons.org/fastapi/009688" width="50" height="50" />
+      <br>FastAPI
+    </td>
+    <td align="center" width="80" height="80">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50" height="50" />
+      <br>Express
+    </td>
+    <td align="center" width="80" height="80">
+      <img src="https://cdn.simpleicons.org/dotnet/512BD4" width="50" height="50" />
+      <br>.NET
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="80" height="80">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50" />
+      <br>React
+    </td>
+    <td align="center" width="80" height="80">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="80" height="80">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" />
+      <br>HTML5
+    </td>
+    <td align="center" width="80" height="80">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" />
+      <br>CSS3
+    </td>
+    <td align="center" width="80" height="80">
+      <img src="https://cdn.simpleicons.org/typescript/3178C6" width="50" height="50" />
+      <br>TypeScript
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="80" height="80">
+      <img src="https://cdn.simpleicons.org/mysql/4479A1" width="50" height="50" />
+      <br>MySQL
+    </td>
+    <td align="center" width="80" height="80">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" height="50" />
+      <br>PostgreSQL
+    </td>
+    <td align="center" width="80" height="80">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" height="50" />
+      <br>MongoDB
+    </td>
+    <td align="center" width="80" height="80">
+      <img src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927" width="50" height="50" />
+      <br>SQL Server
+    </td>
+    <td align="center" width="80" height="80">
+      <img src="https://cdn.simpleicons.org/microsoftazure/0078D4" width="50" height="50" />
+      <br>Azure
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="80" height="80">
+      <img src="https://cdn.simpleicons.org/docker/2496ED" width="50" height="50" />
+      <br>Docker
+    </td>
+    <td align="center" width="80" height="80">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="50" height="50" />
+      <br>Kubernetes
+    </td>
+    <td align="center" width="80" height="80">
+      <img src="https://cdn.simpleicons.org/cloudflare/F38020" width="50" height="50" />
+      <br>Cloudflare
+    </td>
+    <td align="center" width="80" height="80">
+      <img src="https://cdn.simpleicons.org/csharp/239120" width="50" height="50" />
+      <br>C#
+    </td>
+    <td align="center" width="80" height="80">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" />
+      <br>Git
+    </td>
+  </tr>
+</table>
