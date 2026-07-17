@@ -22,30 +22,10 @@
 
 <div align="center">
 
-  ## Atividade Recente
-
-  [![Gráfico de Atividade](https://github-readme-activity-graph.vercel.app/graph?username=nicozsd&theme=react-dark&bg_color=0d1117&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-<div align="center">
-
   ## Estatísticas do GitHub
 
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=nicozsd&show_icons=true&theme=dark&include_all_commits=true&count_private=true&locale=pt-br" alt="Estatísticas do GitHub" height="180em" />
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nicozsd&layout=compact&theme=dark&locale=pt-br" alt="Principais Linguagens" height="180em" />
-
-</div>
-
----
-
-<div align="center">
-
-  ## Sequência de Contribuições
-
-  [![Sequência de Contribuições](https://streak-stats.demolab.com/?user=nicozsd&theme=dark&hide_border=true&locale=pt-br)](https://git.io/streak-stats)
 
 </div>
 
